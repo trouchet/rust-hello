@@ -32,7 +32,7 @@ fn main() {
 
 5. Save the file.
 
-    Build and run the program using the following commands:
+6. Build and run the program using the following commands:
 
 # Build the project
 
