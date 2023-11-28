@@ -17,7 +17,7 @@ git clone https://github.com/brunolnetto/rust-hello.git
 2. Navigate to the project directory:
 
 ```bash
-cd rust-hello-world
+cd rust-hello
 ```
 
 3. Open the src/main.rs file in your preferred text editor.
